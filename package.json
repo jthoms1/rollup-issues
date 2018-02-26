@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/jthoms1/rollup-issues#readme",
   "devDependencies": {
-    "rollup": "^0.56.1"
+    "rollup": "^0.56.3"
   }
 }
